@@ -10,6 +10,7 @@ module.exports = {
       options: {
         contentPath: 'notes',
         basePath: '/',
+        gitRepoContentPath:'https://github.com/timajwilliams/snippets/tree/master/notes',
         showThemeInfo: false,
         showDescriptionInSidebar: true,
       },
