@@ -1,7 +1,9 @@
 ---
 title: Correlation Scoring
 tags:
-  - scoring, sklearn, python
+  - scoring 
+  - sklearn 
+  - python
 emoji: 📈
 ---
 
